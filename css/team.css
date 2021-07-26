@@ -126,17 +126,12 @@ main {
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 600;
     font-size: 36px;
-    /*color: rgba(93, 27, 74, 1);*/
-    color: #A375ED;
+    color: rgba(93, 27, 74, 1);
     padding: 3rem 0;
 }
 
 .main-header:first-of-type {
     padding-top: 0;
-}
-
-.main-content {
-    background: black;
 }
 
 .people-sections {
@@ -160,7 +155,6 @@ main {
     font-weight: 600;
     font-size: 21px;
     padding: 1em 0rem;
-    color: white;
 }
 
 #david-headshot {
